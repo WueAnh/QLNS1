@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="34e562aed0ce46f9992fc753ac6010e4" Name="Diagram1">
+        <EntityTypeShape EntityType="QLNhansu1Model.Account" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhansu1Model.baoHiem" Width="1.5" PointX="7.5" PointY="7.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhansu1Model.BoPhan" Width="1.5" PointX="0.75" PointY="6.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhansu1Model.ChamCong" Width="1.5" PointX="7.5" PointY="11.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhansu1Model.HocVan" Width="1.5" PointX="3" PointY="9.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhansu1Model.HopDong" Width="1.5" PointX="7.5" PointY="14.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhansu1Model.Luong" Width="1.5" PointX="9.75" PointY="9.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhansu1Model.NhanVien" Width="1.5" PointX="5.25" PointY="8.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="QLNhansu1Model.PhongBan" Width="1.5" PointX="3" PointY="12.5" IsExpanded="true" />
+        <AssociationConnector Association="QLNhansu1Model.FK__baoHiem__maLuong__398D8EEE" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhansu1Model.FK__baoHiem__maNV__38996AB5" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhansu1Model.FK__NhanVien__maBP__2E1BDC42" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhansu1Model.FK__PhongBan__maBP__286302EC" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhansu1Model.FK__ChamCong__maNV__31EC6D26" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhansu1Model.FK__Luong__maCB__34C8D9D1" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhansu1Model.FK__NhanVien__maHV__2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhansu1Model.FK__HopDong__maNV__3C69FB99" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhansu1Model.FK__Luong__maNV__35BCFE0A" ManuallyRouted="false" />
+        <AssociationConnector Association="QLNhansu1Model.FK__NhanVien__maPhon__2D27B809" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

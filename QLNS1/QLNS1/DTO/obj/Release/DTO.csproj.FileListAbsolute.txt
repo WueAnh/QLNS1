@@ -1,0 +1,5 @@
+D:\Baitap\Dotnet\QLNS1\DTO\bin\Release\DTO.dll
+D:\Baitap\Dotnet\QLNS1\DTO\bin\Release\DTO.pdb
+D:\Baitap\Dotnet\QLNS1\DTO\obj\Release\DTO.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\QLNS1\DTO\obj\Release\DTO.dll
+D:\Baitap\Dotnet\QLNS1\DTO\obj\Release\DTO.pdb

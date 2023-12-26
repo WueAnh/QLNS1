@@ -1,0 +1,71 @@
+D:\Baitap\Dotnet\QLNS1\DTO\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\QLNS1\DTO\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\QLNS1\DTO\obj\Debug\DTO.dll
+D:\Baitap\Dotnet\QLNS1\DTO\obj\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DTO\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DTO\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DTO\obj\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\DTO\obj\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DTO\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DTO\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DTO\obj\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DTO\obj\Debug\DTO.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DTO\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DTO\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DTO\obj\Debug\DTO.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\DTO\obj\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DTO\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DTO\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DTO\obj\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\DTO\obj\Debug\DTO.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DTO\bin\Debug\DTO.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DTO\bin\Debug\DTO.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DTO\obj\Debug\DTO.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\DTO\obj\Debug\DTO.pdb
+D:\TTTN\QLNS1\DTO\bin\Debug\DTO.dll
+D:\TTTN\QLNS1\DTO\bin\Debug\DTO.pdb
+D:\TTTN\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\TTTN\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\TTTN\QLNS1\DTO\obj\Debug\DTO.dll
+D:\TTTN\QLNS1\DTO\obj\Debug\DTO.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DTO\bin\Debug\DTO.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DTO\bin\Debug\DTO.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DTO\obj\Debug\DTO.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\DTO\obj\Debug\DTO.pdb
+C:\Users\AnhTony\Desktop\QLNS1\DTO\bin\Debug\DTO.dll
+C:\Users\AnhTony\Desktop\QLNS1\DTO\bin\Debug\DTO.pdb
+C:\Users\AnhTony\Desktop\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\AnhTony\Desktop\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\AnhTony\Desktop\QLNS1\DTO\obj\Debug\DTO.dll
+C:\Users\AnhTony\Desktop\QLNS1\DTO\obj\Debug\DTO.pdb
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\DTO\bin\Debug\DTO.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\DTO\bin\Debug\DTO.pdb
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\DTO\obj\Debug\DTO.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\DTO\obj\Debug\DTO.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\DTO\bin\Debug\DTO.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\DTO\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QLNS1\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QLNS1\QLNS1\DTO\obj\Debug\DTO.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\DTO\obj\Debug\DTO.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\DTO\bin\Debug\DTO.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\DTO\bin\Debug\DTO.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Downloads\QLNS1\QLNS1\QLNS1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Downloads\QLNS1\QLNS1\QLNS1\DTO\obj\Debug\DTO.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\DTO\obj\Debug\DTO.pdb

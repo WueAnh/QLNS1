@@ -1,0 +1,310 @@
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Debug\BUS.dll
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Debug\BUS.pdb
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Debug\DAL.dll
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Debug\EntityFramework.dll
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Debug\DAL.pdb
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Debug\DAL.dll.config
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Debug\EntityFramework.xml
+D:\Baitap\Dotnet\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\QLNS1\BUS\obj\Debug\BUS.dll
+D:\Baitap\Dotnet\QLNS1\BUS\obj\Debug\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\bin\Debug\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\bin\Debug\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\bin\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\bin\Debug\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\bin\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\bin\Debug\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\bin\Debug\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\obj\Debug\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\BUS\obj\Debug\BUS.pdb
+D:\Baitap\Dotnet\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Debug\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Debug\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Debug\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Debug\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Debug\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\obj\Debug\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\obj\Debug\BUS.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\bin\Debug\BUS.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\bin\Debug\BUS.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\bin\Debug\DAL.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\bin\Debug\EntityFramework.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\bin\Debug\DAL.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\bin\Debug\DAL.dll.config
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\bin\Debug\EntityFramework.xml
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\obj\Debug\BUS.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\BUS\obj\Debug\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\bin\Debug\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\bin\Debug\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\bin\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\bin\Debug\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\bin\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\bin\Debug\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\bin\Debug\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\obj\Debug\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\BUS\obj\Debug\BUS.pdb
+D:\TTTN\DuAn\QLNS1\BUS\bin\Debug\BUS.dll
+D:\TTTN\DuAn\QLNS1\BUS\bin\Debug\BUS.pdb
+D:\TTTN\DuAn\QLNS1\BUS\bin\Debug\DAL.dll
+D:\TTTN\DuAn\QLNS1\BUS\bin\Debug\DTO.dll
+D:\TTTN\DuAn\QLNS1\BUS\bin\Debug\EntityFramework.dll
+D:\TTTN\DuAn\QLNS1\BUS\bin\Debug\DAL.pdb
+D:\TTTN\DuAn\QLNS1\BUS\bin\Debug\DAL.dll.config
+D:\TTTN\DuAn\QLNS1\BUS\bin\Debug\DTO.pdb
+D:\TTTN\DuAn\QLNS1\BUS\bin\Debug\EntityFramework.xml
+D:\TTTN\DuAn\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\TTTN\DuAn\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\TTTN\DuAn\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\TTTN\DuAn\QLNS1\BUS\obj\Debug\BUS.dll
+D:\TTTN\DuAn\QLNS1\BUS\obj\Debug\BUS.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\BUS.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\BUS.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\DAL.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\DTO.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\EntityFramework.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\DAL.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\DAL.dll.config
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\DTO.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\EntityFramework.xml
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\obj\Debug\BUS.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\BUS\obj\Debug\BUS.pdb
+D:\TTTN\QLNS1\BUS\bin\Debug\BUS.dll
+D:\TTTN\QLNS1\BUS\bin\Debug\BUS.pdb
+D:\TTTN\QLNS1\BUS\bin\Debug\DAL.dll
+D:\TTTN\QLNS1\BUS\bin\Debug\DTO.dll
+D:\TTTN\QLNS1\BUS\bin\Debug\EntityFramework.dll
+D:\TTTN\QLNS1\BUS\bin\Debug\DAL.pdb
+D:\TTTN\QLNS1\BUS\bin\Debug\DAL.dll.config
+D:\TTTN\QLNS1\BUS\bin\Debug\DTO.pdb
+D:\TTTN\QLNS1\BUS\bin\Debug\EntityFramework.xml
+D:\TTTN\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\TTTN\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\TTTN\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\TTTN\QLNS1\BUS\obj\Debug\BUS.dll
+D:\TTTN\QLNS1\BUS\obj\Debug\BUS.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\bin\Debug\BUS.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\bin\Debug\BUS.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\bin\Debug\DAL.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\bin\Debug\DTO.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\bin\Debug\EntityFramework.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\bin\Debug\DAL.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\bin\Debug\DAL.dll.config
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\bin\Debug\DTO.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\bin\Debug\EntityFramework.xml
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\obj\Debug\BUS.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\BUS\obj\Debug\BUS.pdb
+C:\Users\AnhTony\Desktop\QLNS1\BUS\bin\Debug\BUS.dll
+C:\Users\AnhTony\Desktop\QLNS1\BUS\bin\Debug\BUS.pdb
+C:\Users\AnhTony\Desktop\QLNS1\BUS\bin\Debug\DAL.dll
+C:\Users\AnhTony\Desktop\QLNS1\BUS\bin\Debug\DTO.dll
+C:\Users\AnhTony\Desktop\QLNS1\BUS\bin\Debug\EntityFramework.dll
+C:\Users\AnhTony\Desktop\QLNS1\BUS\bin\Debug\DAL.pdb
+C:\Users\AnhTony\Desktop\QLNS1\BUS\bin\Debug\DAL.dll.config
+C:\Users\AnhTony\Desktop\QLNS1\BUS\bin\Debug\DTO.pdb
+C:\Users\AnhTony\Desktop\QLNS1\BUS\bin\Debug\EntityFramework.xml
+C:\Users\AnhTony\Desktop\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\AnhTony\Desktop\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\AnhTony\Desktop\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\AnhTony\Desktop\QLNS1\BUS\obj\Debug\BUS.dll
+C:\Users\AnhTony\Desktop\QLNS1\BUS\obj\Debug\BUS.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\BUS.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\BUS.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\DAL.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\DTO.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\EntityFramework.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\DAL.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\DAL.dll.config
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\DTO.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\bin\Debug\EntityFramework.xml
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\obj\Debug\BUS.csprojAssemblyReference.cache
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\obj\Debug\BUS.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\BUS\obj\Debug\BUS.pdb
+D:\thuc tap\QLNS1\BUS\bin\Debug\BUS.dll
+D:\thuc tap\QLNS1\BUS\bin\Debug\BUS.pdb
+D:\thuc tap\QLNS1\BUS\bin\Debug\DAL.dll
+D:\thuc tap\QLNS1\BUS\bin\Debug\DTO.dll
+D:\thuc tap\QLNS1\BUS\bin\Debug\EntityFramework.dll
+D:\thuc tap\QLNS1\BUS\bin\Debug\DAL.pdb
+D:\thuc tap\QLNS1\BUS\bin\Debug\DAL.dll.config
+D:\thuc tap\QLNS1\BUS\bin\Debug\DTO.pdb
+D:\thuc tap\QLNS1\BUS\bin\Debug\EntityFramework.xml
+D:\thuc tap\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\thuc tap\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\thuc tap\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\thuc tap\QLNS1\BUS\obj\Debug\BUS.dll
+D:\thuc tap\QLNS1\BUS\obj\Debug\BUS.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\bin\Debug\BUS.dll
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\bin\Debug\BUS.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\bin\Debug\DAL.dll
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\bin\Debug\EntityFramework.dll
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\bin\Debug\DAL.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\bin\Debug\DAL.dll.config
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\bin\Debug\EntityFramework.xml
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\obj\Debug\BUS.dll
+D:\Baitap\Dotnet\New folder\QLNS1\BUS\obj\Debug\BUS.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\bin\Debug\BUS.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\bin\Debug\BUS.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\bin\Debug\DAL.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\bin\Debug\DTO.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\bin\Debug\EntityFramework.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\bin\Debug\DAL.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\bin\Debug\DAL.dll.config
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\bin\Debug\DTO.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\bin\Debug\EntityFramework.xml
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\obj\Debug\BUS.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\BUS\obj\Debug\BUS.pdb
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\BUS.dll.config
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\BUS.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\BUS.pdb
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\DAL.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\DTO.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\Oracle.DataAccess.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\Oracle.ManagedDataAccessIOP.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\Oracle.Web.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Buffers.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Memory.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Text.Json.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.ValueTuple.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\EntityFramework.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\DAL.pdb
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\DAL.dll.config
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\DTO.pdb
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Buffers.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Memory.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Text.Json.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\System.ValueTuple.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\bin\Debug\EntityFramework.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\obj\Debug\BUS.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\BUS\obj\Debug\BUS.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\BUS.dll.config
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\DAL.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\DTO.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\Oracle.DataAccess.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\Oracle.ManagedDataAccessIOP.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\Oracle.Web.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Buffers.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Memory.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\DAL.dll.config
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Buffers.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Memory.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\obj\Debug\BUS.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\BUS\obj\Debug\BUS.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\BUS.dll.config
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\BUS.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\BUS.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\DAL.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\DTO.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\Oracle.DataAccess.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\Oracle.ManagedDataAccessIOP.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\Oracle.Web.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Buffers.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Memory.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Text.Json.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.ValueTuple.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\EntityFramework.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\DAL.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\DAL.dll.config
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\DTO.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Buffers.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Memory.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Text.Json.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\System.ValueTuple.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\bin\Debug\EntityFramework.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\obj\Debug\BUS.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\BUS\obj\Debug\BUS.pdb

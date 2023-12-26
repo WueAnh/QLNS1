@@ -1,0 +1,1721 @@
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\BUS.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\DAL.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\BUS.pdb
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\DAL.pdb
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMk.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.Main.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMk.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.Main.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DSBaoHiem.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DSKhenThuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DSKyLuat.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DSThaiSan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.DSBaoHiem.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.DSKhenThuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.DSKyLuat.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.DSThaiSan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\BUS.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\DAL.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\BUS.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\DAL.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhan.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMk.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.DSBaoHiem.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.DSKhenThuong.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.DSKyLuat.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.DSThaiSan.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.Main.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+D:\Baitap\Dotnet\New folder\QLNS1_2\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DSLuong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMk.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.DSBaoHiem.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.DSKhenThuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.DSKyLuat.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.DSLuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.DSThaiSan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.Main.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.TongLuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.DSLuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.TongLuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\BUS.dll
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\DAL.dll
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\DTO.dll
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\BUS.pdb
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\DAL.pdb
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\DTO.pdb
+D:\TTTN\DuAn\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhan.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMk.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.DSBaoHiem.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.DSKhenThuong.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.DSKyLuat.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.DSLuong.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.DSThaiSan.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.Main.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.TongLuong.resources
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+D:\TTTN\DuAn\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\BUS.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\DAL.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\DTO.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\BUS.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\DAL.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\DTO.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\stdole.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhan.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMk.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.DSBaoHiem.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.DSKhenThuong.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.DSKyLuat.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.DSLuong.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.DSThaiSan.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.Main.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.TongLuong.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\TTTN\QLNS1\QLNS1\obj\Debug\RdlCompile.cache
+D:\TTTN\QLNS1\QLNS1\obj\Debug\RdlCompile.compiled
+D:\TTTN\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+D:\TTTN\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+D:\TTTN\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+D:\TTTN\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+D:\TTTN\QLNS1\QLNS1\bin\Debug\BUS.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\DAL.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\DTO.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\stdole.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\BUS.pdb
+D:\TTTN\QLNS1\QLNS1\bin\Debug\DAL.pdb
+D:\TTTN\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+D:\TTTN\QLNS1\QLNS1\bin\Debug\DTO.pdb
+D:\TTTN\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+D:\TTTN\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTTN\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\TTTN\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\stdole.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongCT.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\bin\Debug\EnvDTE.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\BUS.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\DAL.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\DTO.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\stdole.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\BUS.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\DAL.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\DTO.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhan.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMk.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DSBaoHiem.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DSKhenThuong.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DSKyLuat.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DSLuong.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DSThaiSan.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.Main.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongCT.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBP.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.TongLuong.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\RdlCompile.cache
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\RdlCompile.compiled
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.RPNhanVienByBP.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+C:\Users\PhucNguyen\OneDrive\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongCT.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBP.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\stdole.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongCT.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\RdlCompile.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\Winform\QLNS1\QLNS1\obj\Debug\RdlCompile.compiled
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGio.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinh.resources
+D:\TTTN\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\BUS.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\DAL.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\DTO.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\stdole.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\BUS.pdb
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\DAL.pdb
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\DTO.pdb
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGio.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\RdlCompile.cache
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\RdlCompile.compiled
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPHopDong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGio.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPHopDong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\stdole.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPHopDong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDong.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDong.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\Guna.UI2.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.SplashScreen.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.TrangChu.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachBaoHiem.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\BUS.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\DAL.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\DTO.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Guna.UI2.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\stdole.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\BUS.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\DAL.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\DTO.pdb
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhann.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachBaoHiem.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKhenThuong.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKyLuat.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachThaiSan.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMatKhau.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.LuongNhanVien.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDong.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGio.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.SplashScreen.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.TrangChu.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuong.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPHopDong.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\BUS.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\DAL.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\DTO.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Guna.UI2.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\stdole.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\BUS.pdb
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\DAL.pdb
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\DTO.pdb
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\EnvDTE.xml
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc tap\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhann.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.DangKyy.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachBaoHiem.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKhenThuong.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKyLuat.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachThaiSan.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMatKhau.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhapp.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.HopDongg.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.LuongNhanVien.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVienn.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBann.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDong.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.SplashScreen.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVienn.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuongg.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.TrangChu.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongCT.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPHopDong.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\BUS.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\DAL.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\DTO.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Guna.UI2.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\stdole.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\BUS.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\DAL.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\DTO.pdb
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\EnvDTE.xml
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhan.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhann.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DangKyy.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachBaoHiem.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKhenThuong.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKyLuat.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachThaiSan.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMatKhau.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMk.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DSBaoHiem.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DSKhenThuong.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DSKyLuat.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DSLuong.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DSThaiSan.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhapp.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.HopDongg.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.LuongNhanVien.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.Main.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVienn.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBann.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBoPhan.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongChiTiet.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinh.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinhh.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDong.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDongg.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBPP.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTree.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGio.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGioo.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.SplashScreen.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVienn.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuongg.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.TrangChu.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongCT.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBP.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuong.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPHopDong.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.ViewThamNien.resources
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+D:\Baitap\Dotnet\New folder\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhann.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKhenThuong.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKyLuat.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachThaiSan.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMatKhau.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.LuongNhanVien.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBoPhan.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongChiTiet.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinhh.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuong.resources
+C:\Users\AnhTony\Desktop\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThamNien.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBoPhan.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongChiTiet.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinhh.resources
+C:\Users\minht\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThamNien.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBoPhan.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongChiTiet.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinhh.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDongg.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBPP.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTree.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGioo.resources
+D:\thuc tap\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThamNien.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Guna.UI2.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\EnvDTE.xml
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhann.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachBaoHiem.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKhenThuong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKyLuat.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachThaiSan.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMatKhau.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.LuongNhanVien.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBoPhan.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongChiTiet.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinhh.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.TrangChu.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThamNien.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGio.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\Guna.UI2.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\bin\Debug\EnvDTE.xml
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhann.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachBaoHiem.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKhenThuong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKyLuat.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachThaiSan.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMatKhau.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.LuongNhanVien.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBoPhan.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongChiTiet.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinhh.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.SplashScreen.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.TrangChu.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThamNien.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\BUS.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\DAL.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\DTO.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Guna.UI2.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\stdole.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\BUS.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\DAL.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\DTO.pdb
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\EnvDTE.xml
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhann.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachBaoHiem.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKhenThuong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKyLuat.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachThaiSan.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMatKhau.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.LuongNhanVien.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBoPhan.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongChiTiet.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinhh.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGio.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.SplashScreen.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.TrangChu.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPHopDong.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThamNien.resources
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+C:\Users\NguyenTrinhLanNhi\OneDrive\Máy tính\QLNS2\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Debug\QLNS1.loadingForm.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhann.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachBaoHiem.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKhenThuong.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKyLuat.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachThaiSan.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMatKhau.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.loadingForm.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.LuongNhanVien.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBoPhan.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongChiTiet.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinhh.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDong.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGio.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuong.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.TrangChu.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPHopDong.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThamNien.resources
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\BUS.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\DAL.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\DTO.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\Guna.UI2.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Text.Json.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Memory.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\stdole.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.ValueTuple.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Buffers.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\BUS.pdb
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\BUS.dll.config
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\DAL.pdb
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\DTO.pdb
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Text.Json.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Memory.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.ValueTuple.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Buffers.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+C:\Users\mtbv\Downloads\QuanLyNhanSu\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\BUS.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\DAL.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\DTO.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Guna.UI2.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Oracle.ManagedDataAccessIOP.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Windows.Forms.Ribbon.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Text.Json.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Memory.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\stdole.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.ValueTuple.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Buffers.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\BUS.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\BUS.dll.config
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\DAL.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\DTO.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Text.Json.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Memory.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.ValueTuple.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Buffers.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhann.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachBaoHiem.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKhenThuong.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKyLuat.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachThaiSan.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMatKhau.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.loadingForm.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.LuongNhanVien.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBoPhan.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongChiTiet.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinhh.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDong.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGio.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuong.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.TrangChu.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPHopDong.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThamNien.resources
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\admin\Downloads\QLNS1\QLNS1\QLNS1\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.exe
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\x86\SqlServerSpatial160.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\x64\SqlServerSpatial160.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\QLNS1.exe.config
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\QLNS1.exe
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\QLNS1.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\BUS.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\DAL.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\DTO.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Guna.UI2.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Oracle.ManagedDataAccessIOP.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Buffers.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Memory.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Text.Json.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.ValueTuple.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Windows.Forms.Ribbon.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\EntityFramework.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\EnvDTE.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\stdole.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\BUS.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\BUS.dll.config
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\DAL.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\DAL.dll.config
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\DTO.pdb
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Buffers.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Memory.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Text.Json.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\System.ValueTuple.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\EntityFramework.xml
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.BoPhann.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ChamCong.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DangKy.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachBaoHiem.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKhenThuong.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachKyLuat.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DanhSachThaiSan.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DoiMatKhau.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.DangNhap.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.HopDong.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.loadingForm.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.LuongNhanVien.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.NhanVien.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.PhongBan.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.Properties.Resources.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongBoPhan.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportChamCongChiTiet.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportGioiTinhh.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportHopDong.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienBP.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportNhanVienDiTre.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ReportThemGio.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ThongTinNhanVien.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.TinhLuong.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.TrangChu.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKhenThuong.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPBaoHiem.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongBP.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPChamCongCT.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSKyLuat.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPDSThaiSan.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPGioiTinh.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPHopDong.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienByBP.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPNhanVienDiTre.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThemGio.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\QLNS1.ViewRPThamNien.resources
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Downloads\QLNS1\QLNS1\QLNS1\QLNS1\obj\Debug\GUI.csproj.CopyComplete

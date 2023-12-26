@@ -1,0 +1,42 @@
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Release\DAL.dll.config
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Release\DAL.dll
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Release\DAL.pdb
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Release\DTO.dll
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Release\EntityFramework.dll
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Release\DTO.pdb
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Release\EntityFramework.xml
+D:\Baitap\Dotnet\QLNS1\DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\Baitap\Dotnet\QLNS1\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\QLNS1\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\QLNS1\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\Baitap\Dotnet\QLNS1\DAL\obj\Release\DAL.dll
+D:\Baitap\Dotnet\QLNS1\DAL\obj\Release\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Release\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Release\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Release\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Release\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Release\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Release\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Release\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\obj\Release\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\DAL\obj\Release\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\bin\Release\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\bin\Release\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\bin\Release\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\bin\Release\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\bin\Release\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\bin\Release\EntityFramework.SqlServer.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\bin\Release\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\bin\Release\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\bin\Release\EntityFramework.SqlServer.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\obj\Release\DAL.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\obj\Release\DAL.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\obj\Release\DAL.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\obj\Release\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\DAL\obj\Release\DAL.pdb

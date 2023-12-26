@@ -1,0 +1,339 @@
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\QLNS1.exe.config
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\QLNS1.exe
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\QLNS1.pdb
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\BUS.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\DAL.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\DTO.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Guna.UI2.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.SqlServer.Types.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\System.Windows.Forms.Ribbon.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\EntityFramework.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\EnvDTE.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\stdole.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\Microsoft.MSXML.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\BUS.pdb
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\DAL.pdb
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\DAL.dll.config
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\DTO.pdb
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\EntityFramework.xml
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\GUI.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.BoPhann.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ChamCong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.DangKy.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachBaoHiem.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachKhenThuong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachKyLuat.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachThaiSan.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.DoiMatKhau.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.DangNhap.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.HopDong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.loadingForm.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.LuongNhanVien.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.NhanVien.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.PhongBan.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.Properties.Resources.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ReportChamCongBoPhan.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ReportChamCongChiTiet.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ReportGioiTinhh.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ReportHopDong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ReportNhanVienBP.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ReportNhanVienDiTre.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ReportThemGio.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ThongTinNhanVien.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.TinhLuong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.TrangChu.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPDSKhenThuong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPBaoHiem.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPChamCongBP.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPChamCongCT.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPDSKyLuat.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPDSThaiSan.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPGioiTinh.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPHopDong.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPNhanVienByBP.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPNhanVienDiTre.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPThemGio.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPThamNien.resources
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\GUI.csproj.GenerateResource.cache
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\RdlCompile.cache
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\RdlCompile.compiled
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\GUI.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\GUI.csproj.CopyComplete
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.exe
+D:\Baitap\Dotnet\QLNS1\QLNS1\obj\Release\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\QLNS1.exe.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\QLNS1.exe
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Guna.UI2.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.SqlServer.Types.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\System.Windows.Forms.Ribbon.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\EnvDTE.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\stdole.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\Microsoft.MSXML.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\GUI.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.BoPhann.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ChamCong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.DangKy.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachBaoHiem.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachKhenThuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachKyLuat.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachThaiSan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.DoiMatKhau.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.DangNhap.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.HopDong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.loadingForm.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.LuongNhanVien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.NhanVien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.PhongBan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.Properties.Resources.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ReportChamCongBoPhan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ReportChamCongChiTiet.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ReportGioiTinhh.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ReportHopDong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ReportNhanVienBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ReportNhanVienDiTre.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ReportThemGio.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ThongTinNhanVien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.TinhLuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.TrangChu.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPDSKhenThuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPBaoHiem.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPChamCongBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPChamCongCT.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPDSKyLuat.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPDSThaiSan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPGioiTinh.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPHopDong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPNhanVienByBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPNhanVienDiTre.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPThemGio.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPThamNien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\GUI.csproj.GenerateResource.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\RdlCompile.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\RdlCompile.compiled
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\GUI.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\GUI.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.exe
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\QLNS1\obj\Release\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\QLNS1.exe.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\QLNS1.exe
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\QLNS1.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Guna.UI2.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.Common.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.Design.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.ReportViewer.WinForms.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.SqlServer.Types.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\System.Windows.Forms.Ribbon.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\EnvDTE.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\stdole.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\Microsoft.MSXML.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\GUI.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.BoPhann.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ChamCong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.DangKy.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachBaoHiem.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachKhenThuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachKyLuat.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.DanhSachThaiSan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.DoiMatKhau.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.DangNhap.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.HopDong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.loadingForm.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.LuongNhanVien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.NhanVien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.PhongBan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.Properties.Resources.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ReportChamCongBoPhan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ReportChamCongChiTiet.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ReportGioiTinhh.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ReportHopDong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ReportNhanVienBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ReportNhanVienDiTre.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ReportThemGio.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ThongTinNhanVien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.TinhLuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.TrangChu.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPDSKhenThuong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPBaoHiem.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPChamCongBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPChamCongCT.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPDSKyLuat.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPDSThaiSan.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPGioiTinh.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPHopDong.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPNhanVienByBP.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPNhanVienDiTre.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPThemGio.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.ViewRPThamNien.resources
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\GUI.csproj.GenerateResource.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\RdlCompile.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\RdlCompile.compiled
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\GUI.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\GUI.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.exe
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\QLNS1\obj\Release\QLNS1.pdb

@@ -1,0 +1,42 @@
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Release\BUS.dll
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Release\BUS.pdb
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Release\DAL.dll
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Release\DTO.dll
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Release\EntityFramework.dll
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Release\DAL.pdb
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Release\DAL.dll.config
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Release\DTO.pdb
+D:\Baitap\Dotnet\QLNS1\BUS\bin\Release\EntityFramework.xml
+D:\Baitap\Dotnet\QLNS1\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+D:\Baitap\Dotnet\QLNS1\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\Baitap\Dotnet\QLNS1\BUS\obj\Release\BUS.csproj.CopyComplete
+D:\Baitap\Dotnet\QLNS1\BUS\obj\Release\BUS.dll
+D:\Baitap\Dotnet\QLNS1\BUS\obj\Release\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Release\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Release\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Release\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Release\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Release\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Release\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Release\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Release\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\bin\Release\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\obj\Release\BUS.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\obj\Release\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QLNS2\QLNS1\BUS\obj\Release\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\bin\Release\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\bin\Release\BUS.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\bin\Release\DAL.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\bin\Release\DTO.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\bin\Release\EntityFramework.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\bin\Release\DAL.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\bin\Release\DAL.dll.config
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\bin\Release\DTO.pdb
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\bin\Release\EntityFramework.xml
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\obj\Release\BUS.csproj.AssemblyReference.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\obj\Release\BUS.csproj.CoreCompileInputs.cache
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\obj\Release\BUS.csproj.CopyComplete
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\obj\Release\BUS.dll
+D:\HocTap\Đợt 1 năm 2021\ThucTapTotNghiep\QuanLyNhanSu\QLNS1\BUS\obj\Release\BUS.pdb

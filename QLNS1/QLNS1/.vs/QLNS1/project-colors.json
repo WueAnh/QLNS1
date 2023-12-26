@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0eb5afff-c863-4f7a-95b9-5732a4e3ad9c": {
+      "ProjectGuid": "0eb5afff-c863-4f7a-95b9-5732a4e3ad9c",
+      "DisplayName": "GUI",
+      "ColorIndex": 0
+    },
+    "6bb89dab-9174-405a-b36b-01c96e7ebcfd": {
+      "ProjectGuid": "6bb89dab-9174-405a-b36b-01c96e7ebcfd",
+      "DisplayName": "DTO",
+      "ColorIndex": 1
+    },
+    "804f74d1-8d9b-43f2-a00e-a01c5ee49efb": {
+      "ProjectGuid": "804f74d1-8d9b-43f2-a00e-a01c5ee49efb",
+      "DisplayName": "DAL",
+      "ColorIndex": 2
+    },
+    "96fa19a8-2fa2-4242-8099-ff8752850b9f": {
+      "ProjectGuid": "96fa19a8-2fa2-4242-8099-ff8752850b9f",
+      "DisplayName": "BUS",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

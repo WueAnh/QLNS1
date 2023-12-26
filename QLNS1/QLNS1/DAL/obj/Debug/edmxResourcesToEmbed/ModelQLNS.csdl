@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QLNhansu1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Account">
+    <Key>
+      <PropertyRef Name="taiKhoan" />
+    </Key>
+    <Property Name="taiKhoan" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="matKhau" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ten" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="quyen" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <EntityType Name="baoHiem">
+    <Key>
+      <PropertyRef Name="maBH" />
+    </Key>
+    <Property Name="maBH" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="maNV" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="noiCapso" Type="String" MaxLength="300" FixedLength="false" Unicode="true" />
+    <Property Name="maLuong" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="ngayCap" Type="DateTime" Precision="0" />
+    <Property Name="ghiChu" Type="String" MaxLength="500" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Luong" Relationship="Self.FK__baoHiem__maLuong__398D8EEE" FromRole="baoHiem" ToRole="Luong" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.FK__baoHiem__maNV__38996AB5" FromRole="baoHiem" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="BoPhan">
+    <Key>
+      <PropertyRef Name="maBP" />
+    </Key>
+    <Property Name="maBP" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tenBP" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ngayTL" Type="DateTime" Precision="0" />
+    <Property Name="ghiChu" Type="String" MaxLength="500" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NhanViens" Relationship="Self.FK__NhanVien__maBP__2E1BDC42" FromRole="BoPhan" ToRole="NhanVien" />
+    <NavigationProperty Name="PhongBans" Relationship="Self.FK__PhongBan__maBP__286302EC" FromRole="BoPhan" ToRole="PhongBan" />
+  </EntityType>
+  <EntityType Name="ChamCong">
+    <Key>
+      <PropertyRef Name="maCB" />
+    </Key>
+    <Property Name="maCB" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="maNV" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="gioVao" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="gioRa" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="diTre" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.FK__ChamCong__maNV__31EC6D26" FromRole="ChamCong" ToRole="NhanVien" />
+    <NavigationProperty Name="Luongs" Relationship="Self.FK__Luong__maCB__34C8D9D1" FromRole="ChamCong" ToRole="Luong" />
+  </EntityType>
+  <EntityType Name="HocVan">
+    <Key>
+      <PropertyRef Name="maHV" />
+    </Key>
+    <Property Name="maHV" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tenTDHV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CNganh" Type="String" MaxLength="80" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="NhanViens" Relationship="Self.FK__NhanVien__maHV__2F10007B" FromRole="HocVan" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="HopDong">
+    <Key>
+      <PropertyRef Name="maHD" />
+    </Key>
+    <Property Name="maHD" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="maNV" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="loaiHD" Type="String" MaxLength="150" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ngayBD" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="ngayKT" Type="DateTime" Nullable="false" Precision="0" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.FK__HopDong__maNV__3C69FB99" FromRole="HopDong" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="Luong">
+    <Key>
+      <PropertyRef Name="maLuong" />
+    </Key>
+    <Property Name="maLuong" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tenNV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="luongCB" Type="Int32" Nullable="false" />
+    <Property Name="phuCap" Type="Int32" />
+    <Property Name="congThang" Type="Int32" Nullable="false" />
+    <Property Name="tienThuong" Type="Int32" />
+    <Property Name="maCB" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="maNV" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <NavigationProperty Name="baoHiems" Relationship="Self.FK__baoHiem__maLuong__398D8EEE" FromRole="Luong" ToRole="baoHiem" />
+    <NavigationProperty Name="ChamCong" Relationship="Self.FK__Luong__maCB__34C8D9D1" FromRole="Luong" ToRole="ChamCong" />
+    <NavigationProperty Name="NhanVien" Relationship="Self.FK__Luong__maNV__35BCFE0A" FromRole="Luong" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="maNV" />
+    </Key>
+    <Property Name="maNV" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tenNV" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="gioiTinh" Type="String" MaxLength="1" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="ngaySinh" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="queQuan" Type="String" MaxLength="200" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="sDT" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="diaChi" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="cmnd" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="maPhong" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="maBP" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="maHV" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="baoHiems" Relationship="Self.FK__baoHiem__maNV__38996AB5" FromRole="NhanVien" ToRole="baoHiem" />
+    <NavigationProperty Name="BoPhan" Relationship="Self.FK__NhanVien__maBP__2E1BDC42" FromRole="NhanVien" ToRole="BoPhan" />
+    <NavigationProperty Name="ChamCongs" Relationship="Self.FK__ChamCong__maNV__31EC6D26" FromRole="NhanVien" ToRole="ChamCong" />
+    <NavigationProperty Name="HocVan" Relationship="Self.FK__NhanVien__maHV__2F10007B" FromRole="NhanVien" ToRole="HocVan" />
+    <NavigationProperty Name="HopDongs" Relationship="Self.FK__HopDong__maNV__3C69FB99" FromRole="NhanVien" ToRole="HopDong" />
+    <NavigationProperty Name="Luongs" Relationship="Self.FK__Luong__maNV__35BCFE0A" FromRole="NhanVien" ToRole="Luong" />
+    <NavigationProperty Name="PhongBan" Relationship="Self.FK__NhanVien__maPhon__2D27B809" FromRole="NhanVien" ToRole="PhongBan" />
+  </EntityType>
+  <EntityType Name="PhongBan">
+    <Key>
+      <PropertyRef Name="maPhong" />
+    </Key>
+    <Property Name="maPhong" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="maBP" Type="String" MaxLength="20" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="tenPhong" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="diaChi" Type="String" MaxLength="150" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="BoPhan" Relationship="Self.FK__PhongBan__maBP__286302EC" FromRole="PhongBan" ToRole="BoPhan" />
+    <NavigationProperty Name="NhanViens" Relationship="Self.FK__NhanVien__maPhon__2D27B809" FromRole="PhongBan" ToRole="NhanVien" />
+  </EntityType>
+  <Association Name="FK__baoHiem__maLuong__398D8EEE">
+    <End Role="Luong" Type="Self.Luong" Multiplicity="1" />
+    <End Role="baoHiem" Type="Self.baoHiem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Luong">
+        <PropertyRef Name="maLuong" />
+      </Principal>
+      <Dependent Role="baoHiem">
+        <PropertyRef Name="maLuong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__baoHiem__maNV__38996AB5">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="baoHiem" Type="Self.baoHiem" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="maNV" />
+      </Principal>
+      <Dependent Role="baoHiem">
+        <PropertyRef Name="maNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NhanVien__maBP__2E1BDC42">
+    <End Role="BoPhan" Type="Self.BoPhan" Multiplicity="1" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BoPhan">
+        <PropertyRef Name="maBP" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="maBP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__PhongBan__maBP__286302EC">
+    <End Role="BoPhan" Type="Self.BoPhan" Multiplicity="1" />
+    <End Role="PhongBan" Type="Self.PhongBan" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="BoPhan">
+        <PropertyRef Name="maBP" />
+      </Principal>
+      <Dependent Role="PhongBan">
+        <PropertyRef Name="maBP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__ChamCong__maNV__31EC6D26">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="ChamCong" Type="Self.ChamCong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="maNV" />
+      </Principal>
+      <Dependent Role="ChamCong">
+        <PropertyRef Name="maNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Luong__maCB__34C8D9D1">
+    <End Role="ChamCong" Type="Self.ChamCong" Multiplicity="1" />
+    <End Role="Luong" Type="Self.Luong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="ChamCong">
+        <PropertyRef Name="maCB" />
+      </Principal>
+      <Dependent Role="Luong">
+        <PropertyRef Name="maCB" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NhanVien__maHV__2F10007B">
+    <End Role="HocVan" Type="Self.HocVan" Multiplicity="1" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HocVan">
+        <PropertyRef Name="maHV" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="maHV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__HopDong__maNV__3C69FB99">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="HopDong" Type="Self.HopDong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="maNV" />
+      </Principal>
+      <Dependent Role="HopDong">
+        <PropertyRef Name="maNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Luong__maNV__35BCFE0A">
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="1" />
+    <End Role="Luong" Type="Self.Luong" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="maNV" />
+      </Principal>
+      <Dependent Role="Luong">
+        <PropertyRef Name="maNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__NhanVien__maPhon__2D27B809">
+    <End Role="PhongBan" Type="Self.PhongBan" Multiplicity="1" />
+    <End Role="NhanVien" Type="Self.NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PhongBan">
+        <PropertyRef Name="maPhong" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="maPhong" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="QLNhansu1Entities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Accounts" EntityType="Self.Account" />
+    <EntitySet Name="baoHiems" EntityType="Self.baoHiem" />
+    <EntitySet Name="BoPhans" EntityType="Self.BoPhan" />
+    <EntitySet Name="ChamCongs" EntityType="Self.ChamCong" />
+    <EntitySet Name="HocVans" EntityType="Self.HocVan" />
+    <EntitySet Name="HopDongs" EntityType="Self.HopDong" />
+    <EntitySet Name="Luongs" EntityType="Self.Luong" />
+    <EntitySet Name="NhanViens" EntityType="Self.NhanVien" />
+    <EntitySet Name="PhongBans" EntityType="Self.PhongBan" />
+    <AssociationSet Name="FK__baoHiem__maLuong__398D8EEE" Association="Self.FK__baoHiem__maLuong__398D8EEE">
+      <End Role="Luong" EntitySet="Luongs" />
+      <End Role="baoHiem" EntitySet="baoHiems" />
+    </AssociationSet>
+    <AssociationSet Name="FK__baoHiem__maNV__38996AB5" Association="Self.FK__baoHiem__maNV__38996AB5">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="baoHiem" EntitySet="baoHiems" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NhanVien__maBP__2E1BDC42" Association="Self.FK__NhanVien__maBP__2E1BDC42">
+      <End Role="BoPhan" EntitySet="BoPhans" />
+      <End Role="NhanVien" EntitySet="NhanViens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__PhongBan__maBP__286302EC" Association="Self.FK__PhongBan__maBP__286302EC">
+      <End Role="BoPhan" EntitySet="BoPhans" />
+      <End Role="PhongBan" EntitySet="PhongBans" />
+    </AssociationSet>
+    <AssociationSet Name="FK__ChamCong__maNV__31EC6D26" Association="Self.FK__ChamCong__maNV__31EC6D26">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="ChamCong" EntitySet="ChamCongs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Luong__maCB__34C8D9D1" Association="Self.FK__Luong__maCB__34C8D9D1">
+      <End Role="ChamCong" EntitySet="ChamCongs" />
+      <End Role="Luong" EntitySet="Luongs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NhanVien__maHV__2F10007B" Association="Self.FK__NhanVien__maHV__2F10007B">
+      <End Role="HocVan" EntitySet="HocVans" />
+      <End Role="NhanVien" EntitySet="NhanViens" />
+    </AssociationSet>
+    <AssociationSet Name="FK__HopDong__maNV__3C69FB99" Association="Self.FK__HopDong__maNV__3C69FB99">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="HopDong" EntitySet="HopDongs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Luong__maNV__35BCFE0A" Association="Self.FK__Luong__maNV__35BCFE0A">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="Luong" EntitySet="Luongs" />
+    </AssociationSet>
+    <AssociationSet Name="FK__NhanVien__maPhon__2D27B809" Association="Self.FK__NhanVien__maPhon__2D27B809">
+      <End Role="PhongBan" EntitySet="PhongBans" />
+      <End Role="NhanVien" EntitySet="NhanViens" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
